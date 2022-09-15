@@ -1,7 +1,0 @@
-{
-  "name": "test-tabs",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
